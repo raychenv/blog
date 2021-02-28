@@ -1,8 +1,8 @@
 # blog
-It is my simple blog to summarize something
+Too young,too simple.Sometimes,naive.
 
 ## 2021
 ### February
-** February 28, 2021 **»** [Improve the concurrency of low layer register access]()
+* February 28, 2021 **»** [how to improve concurrency of low layer register access](https://github.com/raychenv/blog/issues/1)
 
-** Just write **
+**Just write.**
