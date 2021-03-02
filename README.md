@@ -1,5 +1,5 @@
 # blog
-Too young,too simple.Sometimes,naive.
+Too young, too simple. Sometimes, naive.
 
 ## 2021
 ### February
