@@ -10,6 +10,7 @@ Too young, too simple. Sometimes, naive.
 * March 3, 2021 **»** [Jesd204B Overview](https://github.com/raychenv/blog/issues/3)
 
 ## May
+* May 19, 2021* **»** [Complex integral and Fourier transform](https://github.com/raychenv/blog/issues/20)
 * May 20, 2021* **»** [Software architecture](https://github.com/raychenv/blog/issues/21)
 
 ## June
