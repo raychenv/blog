@@ -9,4 +9,7 @@ Too young, too simple. Sometimes, naive.
 * March 2, 2021 **»** [Java regex](https://github.com/raychenv/blog/issues/2)
 * March 3, 2021 **»** [Jesd204B Overview](https://github.com/raychenv/blog/issues/3)
 
+## June
+* June 1, 2021 **»** [State machine](https://github.com/raychenv/blog/issues/22)
+
 **Just write.**
