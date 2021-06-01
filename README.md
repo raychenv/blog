@@ -11,5 +11,6 @@ Too young, too simple. Sometimes, naive.
 
 ## June
 * June 1, 2021 **»** [State machine](https://github.com/raychenv/blog/issues/22)
+* June 1, 2021 **»** [UML diagrams](https://github.com/raychenv/blog/issues/23)
 
 **Just write.**
