@@ -9,6 +9,9 @@ Too young, too simple. Sometimes, naive.
 * March 2, 2021 **»** [Java regex](https://github.com/raychenv/blog/issues/2)
 * March 3, 2021 **»** [Jesd204B Overview](https://github.com/raychenv/blog/issues/3)
 
+## May
+* May 20, 2021* **»** [Software architecture](https://github.com/raychenv/blog/issues/21)
+
 ## June
 * June 1, 2021 **»** [State machine](https://github.com/raychenv/blog/issues/22)
 * June 1, 2021 **»** [UML diagrams](https://github.com/raychenv/blog/issues/23)
