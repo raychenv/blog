@@ -2,13 +2,14 @@
 Too young, too simple. Sometimes, naive.
 
 ## 2021
-### February
-* February 28, 2021 **»** [how to improve concurrency of low layer register access](https://github.com/raychenv/blog/issues/1)
+## June
+* June 1, 2021 **»** [State machine](https://github.com/raychenv/blog/issues/22)
+* June 1, 2021 **»** [UML diagrams](https://github.com/raychenv/blog/issues/23)
 
-### March
-* March 2, 2021 **»** [Java regex](https://github.com/raychenv/blog/issues/2)
-* March 3, 2021 **»** [Jesd204B Overview](https://github.com/raychenv/blog/issues/3)
-* March 17, 2021 **»**[How to abstract hardware in software](https://github.com/raychenv/blog/issues/4)
+## May
+* May 19, 2021 **»** [Circulator](https://github.com/raychenv/blog/issues/19)
+* May 19, 2021 **»** [Complex integral and Fourier transform](https://github.com/raychenv/blog/issues/20)
+* May 20, 2021 **»** [Software architecture](https://github.com/raychenv/blog/issues/21)
 
 ## April
 * April 7, 2021 **»** [Upsampler, filter, equalizer, interpolation](https://github.com/raychenv/blog/issues/5)
@@ -26,13 +27,12 @@ Too young, too simple. Sometimes, naive.
 * April 21, 2021 **»** [Slew rate limilter](https://github.com/raychenv/blog/issues/17)
 * April 21, 2021 **»** [EVM](https://github.com/raychenv/blog/issues/18)
 
-## May
-* May 19, 2021 **»** [Circulator](https://github.com/raychenv/blog/issues/19)
-* May 19, 2021 **»** [Complex integral and Fourier transform](https://github.com/raychenv/blog/issues/20)
-* May 20, 2021 **»** [Software architecture](https://github.com/raychenv/blog/issues/21)
+### March
+* March 2, 2021 **»** [Java regex](https://github.com/raychenv/blog/issues/2)
+* March 3, 2021 **»** [Jesd204B Overview](https://github.com/raychenv/blog/issues/3)
+* March 17, 2021 **»**[How to abstract hardware in software](https://github.com/raychenv/blog/issues/4)
 
-## June
-* June 1, 2021 **»** [State machine](https://github.com/raychenv/blog/issues/22)
-* June 1, 2021 **»** [UML diagrams](https://github.com/raychenv/blog/issues/23)
+### February
+* February 28, 2021 **»** [how to improve concurrency of low layer register access](https://github.com/raychenv/blog/issues/1)
 
 **Just write.**
