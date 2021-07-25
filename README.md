@@ -2,17 +2,29 @@
 Too young, too simple. Sometimes, naive.
 
 ## 2021
+## July
+* July 20, 2021 **»** [SwiftUI vs UIKit: Benefits and Drawbacks ](https://github.com/raychenv/blog/issues/58)
+* July 15, 2021 **»** [How to mock C API with google mock](https://github.com/raychenv/blog/issues/57)
+* July 13, 2021 **»** [google mock overview](https://github.com/raychenv/blog/issues/56)
+* July 6, 2021 **»** [CS193p Developing Applications for iOS --- 16. More Segues](https://github.com/raychenv/blog/issues/55)
+* [CS193p Developing Applications for iOS --- 15. Alerts, Notifications, Application Lifecycle](https://github.com/raychenv/blog/issues/54)
+* [CS193p Developing Applications for iOS --- 14 Persistence and Documents Demo](https://github.com/raychenv/blog/issues/53)
+* [CS193p Developing Applications for iOS --- 13 Persistence and Documents](https://github.com/raychenv/blog/issues/52)
+* [CS193p Developing Applications for iOS --- 12 Drag and Drop, Table View, Collection View, and Text Field](https://github.com/raychenv/blog/issues/51)
+* [CS193p Developing Applications for iOS --- 11 Drag and Drop, Table View, and Collection View](https://github.com/raychenv/blog/issues/50)
+* [CS193p Developing Applications for iOS --- 10 Multithreading and auto layout](https://github.com/raychenv/blog/issues/49)
+
 ## June
-* June 29, 2021 **»** [CS193p Developing Applications for iOS --- View Controller Lifecycle & Scroll View](https://github.com/raychenv/blog/issues/48)
-* June 27, 2021 **»** [CS193p Developing Applications for iOS--- Animation](https://github.com/raychenv/blog/issues/47)
+* June 29, 2021 **»** [CS193p Developing Applications for iOS --- 9 View Controller Lifecycle & Scroll View](https://github.com/raychenv/blog/issues/48)
+* June 27, 2021 **»** [CS193p Developing Applications for iOS--- 8 Animation](https://github.com/raychenv/blog/issues/47)
 * June 27, 2021 **»** [How to know the code of the emoji](https://github.com/raychenv/blog/issues/46)
-* June 26, 2021 **»** [CS193p developing app for iOS -- Multiple MVCs](https://github.com/raychenv/blog/issues/45)
-* June 25, 2021 **»** [CS193p developing app for iOS -- MultiTouch](https://github.com/raychenv/blog/issues/44)
-* June 24, 2021 **»** [CS193p developing app for iOS -- Drawing](https://github.com/raychenv/blog/issues/43)
+* June 26, 2021 **»** [CS193p developing app for iOS -- 7 Multiple MVCs](https://github.com/raychenv/blog/issues/45)
+* June 25, 2021 **»** [CS193p developing app for iOS -- 6 MultiTouch](https://github.com/raychenv/blog/issues/44)
+* June 24, 2021 **»** [CS193p developing app for iOS -- 5 Drawing](https://github.com/raychenv/blog/issues/43)
 * June 22, 2021 **»** [Design thinking](https://github.com/raychenv/blog/issues/42)
 * June 22, 2021 **»** [Process for ideas](https://github.com/raychenv/blog/issues/41)
-* June 20, 2021 **»** [CS193p developing apps for iOS- Swift](https://github.com/raychenv/blog/issues/40)
-* June 19, 2021 **»** [CS193p developing apps for iOS-Intro and MVC](https://github.com/raychenv/blog/issues/39)
+* June 20, 2021 **»** [CS193p developing apps for iOS-- 3 4 Swift](https://github.com/raychenv/blog/issues/40)
+* June 19, 2021 **»** [CS193p developing apps for iOS-- 1 2 Intro and MVC](https://github.com/raychenv/blog/issues/39)
 * June 18, 2021 **»** [static of cpp](https://github.com/raychenv/blog/issues/38)
 * June 15, 2021 **»** [6.01 Circuits of MIT](https://github.com/raychenv/blog/issues/37)
 * June 14, 2021 **»** [Software design pattern](https://github.com/raychenv/blog/issues/36)
