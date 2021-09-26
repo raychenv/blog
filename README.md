@@ -2,7 +2,30 @@
 Too young, too simple. Sometimes, naive.
 
 ## 2021
+## September
+* [Linux Kernel Development by Robert Love](https://github.com/raychenv/blog/issues/78)
+* [Read git code to get familiar with C project](https://github.com/raychenv/blog/issues/77)
+* [dpdk overview](https://github.com/raychenv/blog/issues/76)
+* [Go through C](https://github.com/raychenv/blog/issues/75)
+* [Basic C++](https://github.com/raychenv/blog/issues/74)
+* [Linux BSP](https://github.com/raychenv/blog/issues/73)
+* [Interview questions](https://github.com/raychenv/blog/issues/72)
+## August
+* [IQ imbalance issue in TRX system](https://github.com/raychenv/blog/issues/71)
+* [Destructors in C++](https://github.com/raychenv/blog/issues/70)
+* [Containers library - std::map](https://github.com/raychenv/blog/issues/69)
+* [std::basic_istream read, tellg](https://github.com/raychenv/blog/issues/68)
+* [Input/output library of cpp](https://github.com/raychenv/blog/issues/67)
+* [About reading binary file and char buffers](https://github.com/raychenv/blog/issues/66)
+* [NLP logical levels](https://github.com/raychenv/blog/issues/65)
+* [GCC __static_initialization_and_destruction_0](https://github.com/raychenv/blog/issues/64)
+* [Valgrind for C/C++ memory check](https://github.com/raychenv/blog/issues/63)
+* [GDB for C/C++ Dev](https://github.com/raychenv/blog/issues/62)
+
 ## July
+* [LTE NR Dual connectivity](https://github.com/raychenv/blog/issues/61)
+* [More Gmock](https://github.com/raychenv/blog/issues/60)
+* [Mac Xcode tips](https://github.com/raychenv/blog/issues/59)
 * July 20, 2021 **»** [SwiftUI vs UIKit: Benefits and Drawbacks ](https://github.com/raychenv/blog/issues/58)
 * July 15, 2021 **»** [How to mock C API with google mock](https://github.com/raychenv/blog/issues/57)
 * July 13, 2021 **»** [google mock overview](https://github.com/raychenv/blog/issues/56)
